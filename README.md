@@ -1,1 +1,2 @@
 # Grid-Synchronization-on-Three-Phase-Synchronous-Generators-
+This following document elaborates about the modern era Synchronous Generators. The respective text intends to cover subjects such as synchronization and techniques of synchronization. It further discusses about the pros and cons of these techniques. More over the content tries to brief about today’s grid connected generators and the ways active and reactive power load sharing contribute to system
